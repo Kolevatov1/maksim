@@ -1,2 +1,1 @@
-# maksim
-Практична8.1.py
+print "Hello World"
